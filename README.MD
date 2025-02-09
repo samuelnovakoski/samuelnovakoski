@@ -39,9 +39,4 @@
 </div>
 
 ###
-<div align="center" >
-  <a href="https://open.spotify.com/user/swag0132">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=swag0132&unique={true|1|on|yes})
-  </a>
-</div>
+
